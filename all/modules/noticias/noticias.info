@@ -39,3 +39,4 @@ features[variable][] = node_preview_noticia
 features[variable][] = node_submitted_noticia
 features[views_view][] = noticias
 features_exclude[dependencies][ctools] = ctools
+project path = sites/all/modules
